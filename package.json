@@ -1,5 +1,5 @@
 {
-  "name": "node-bsdiff",
+  "name": "@sxc/node-bsdiff",
   "version": "0.1.4",
   "description": "bsdiff port to node.js",
   "main": "index.js",
